@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "baryon_biomes:block/pine_log" },
+        "axis=z":   { "model": "baryon_biomes:block/pine_log", "x": 90 },
+        "axis=x":   { "model": "baryon_biomes:block/pine_log", "x": 90, "y": 90 }
+    }
+}
